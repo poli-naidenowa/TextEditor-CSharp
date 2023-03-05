@@ -2,24 +2,45 @@
 
 * ## Project Summary
 
-_This is simple text editor, base on NotePad. The purpose of this project is to edditiong text, using different fonds, color and e.t._
+_This is simple text editor, base on NotePad. The purpose of this project is to edditiong text, using different fonds, color and e.t. This Notepad is make for PU "Paisii Hilendarski", subject "GUI with C#"_
+The project have:_
+*Menu - File, Edit, Format, Help with opportunity for:_
+* Chose fonds_
+* Standart funtionality - Cut, Copy, Paste, Delete, Undo, Redo_
+* Inport current Date and Time_
+* Context menu_
+* Option for open exist .txt file or create one_
+
 * ## Requirements
 
-This program is written on C# 4.2.0 
-Visual Studio 2022 
-Windows Forms
+This program is written on C# 4.2.0_
+Visual Studio 2022_
+Windows Forms_
 
 
-* ## Usage
-
+* ## Functionality
+You can use the following buttons:
   ```
-  File      Edit
-  * New     * Undo          
-  * Open    * Redo       
+  _File_     _Edit_        _Format_     _Help_
+  * New     * Undo          * Font      * About
+  * Open    * Redo          * Color
   * Save    * Cut
   * Exit    * Copy
             * Paste
             * Select All
             * DateTime
   ```
+  
+* ## Task in Bulgarian
+* Текстов редактор_
+Да се разработи приложение, наподобяващо текстов редактор със следната функционалност:_
+1) Старторва форма с данни за автора и системата_
+2) Лента с меню - File, Edit, Format, Help с възможност за:_
+- Настройване на вида на шрифта_
+- Стандартните функционалности - Cut, Copy, Paste, Delete, Undo, Redo_
+- Вмъкване на днешна дата и час_
+- Търсене и заместване на текст_
+3) Създаване на контекстно меню_
+4) Създаване на статус лента с информация за име и дестинация на отворен файл_
+5) Опция за отваряне на вече създаден файл или запазване на съществуващ_
                                                                                        |
