@@ -2,7 +2,7 @@
 
 * ## Project Summary
 
-_This is simple text editor, base on NotePad. The purpose of this project is to edditiong text, using different fonds, color and e.t. This Notepad is created for PU "Paisii Hilendarski", subject "GUI with C#"
+_This is simple text editor, base on NotePad. The purpose of this project is to edditiong text, using different fonds, color and e.t. This Notepad is created for PU "Paisii Hilendarski", subject "GUI with C#"_
 The project have:
 *Menu - File, Edit, Format, Help with opportunity for:
 * Chose fonds
@@ -13,9 +13,9 @@ The project have:
 
 * ## Requirements
 
-This program is written on C# 4.2.0_
-Visual Studio 2022_
-Windows Forms_
+This program is written on C# 4.2.0  
+Visual Studio 2022  
+Windows Forms  
 
 
 * ## Functionality
