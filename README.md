@@ -2,14 +2,14 @@
 
 * ## Project Summary
 
-_This is simple text editor, base on NotePad. The purpose of this project is to edditiong text, using different fonds, color and e.t. This Notepad is make for PU "Paisii Hilendarski", subject "GUI with C#"_
-The project have:_
-*Menu - File, Edit, Format, Help with opportunity for:_
-* Chose fonds_
-* Standart funtionality - Cut, Copy, Paste, Delete, Undo, Redo_
-* Inport current Date and Time_
-* Context menu_
-* Option for open exist .txt file or create one_
+_This is simple text editor, base on NotePad. The purpose of this project is to edditiong text, using different fonds, color and e.t. This Notepad is created for PU "Paisii Hilendarski", subject "GUI with C#"
+The project have:
+*Menu - File, Edit, Format, Help with opportunity for:
+* Chose fonds
+* Standart funtionality - Cut, Copy, Paste, Delete, Undo, Redo
+* Inport current Date and Time
+* Context menu
+* Option for open exist .txt file or create one
 
 * ## Requirements
 
